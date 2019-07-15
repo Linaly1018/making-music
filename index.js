@@ -12,6 +12,7 @@ var shoes = new Audio('./assets/what-are-those.mp3');
 var yeet = new Audio('./assets/yeet.mp3');
 var youtube = new Audio('./assets/youtube.mp3');
 
+
 red.on("click", playboi);
 function playboi(){
   bruh.play();
